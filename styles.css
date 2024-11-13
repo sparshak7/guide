@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+ol {
+  padding: 1.2rem;
+}
+
+li {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  list-style: disc;
+  margin: 0.5rem;
+}
+
+body {
+  scroll-behavior: smooth;
+  background-color: #333;
+  color: #fff;
+}
+
+.main-div {
+  padding: 1.5rem;
+}
+
+.inner-div {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
