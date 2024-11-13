@@ -30,3 +30,7 @@ body {
   gap: 10px;
 }
 
+.inner-div h2 {
+  text-decoration: underline;
+}
+
