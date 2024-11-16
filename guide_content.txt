@@ -1,0 +1,144 @@
+
+Backend:
+1. What is API
+2. REST API architecture
+3. What is client-server architecture? What is HTTP? HTTP vs HTTPS
+4. Query Params, Pagination, Sorting, Limit, Offset
+5. What are tokens? What are API keys?
+6. Environment Variables
+7. What is JSON? What are JSON alternatives?
+8. What are middlewares?
+9. What are controllers?
+10. What is OAuth?
+11. What is CORS?
+12. What is MVC pattern?
+13. What is axios?
+14. What is JWT
+15. Authentication vs Authorization
+16. Blocking IO vs Non-blocking IO
+17. NodeJS architecture
+18. Status codes
+19. package.json vs package-lock.json
+20. Why Express?
+21. HTTP methods
+22. PUT vs PATCH
+23. SQL vs NoSQL
+
+MongoDB and Mongoose:
+1. NoSQL Basics (BASE)
+2. Basic MongoDB CRUD operations
+3. How to set up MongoDB, various ways
+4. Need for Mongoose
+5. MongoDB architecture: documents, collections
+6. Cap Theorem
+
+Git and GitHub:
+1. Why Git is needed
+2. Ways to set up Git
+3. Git vs GitHub
+4. GitHub commands
+5. Clone, fork, merge, contribute
+
+React:
+1. React: why, what, advantages, disadvantages
+2. SPA
+3. React vs Angular
+4. React Virtual DOM and Fiber, reconciliation
+5. React lifecycle with functional components
+6. All 7 fundamental hooks
+7. CSR, SSG, SSR, ISG
+8. Prop Drilling Issue
+9. React Router, Redux, and other libraries used
+10. useMemo vs useCallback
+11. React Memo
+12. Bundlers, JSX, Vite, Babel idea
+13. Context API
+14. How to improve speed in React
+15. Lazy Loading (Suspense + Error Boundary), Intersection
+16. Higher Order Components (HOC)
+17. Event Delegation
+18. State Lifting (Child to Parent)
+19. Why TS?
+
+JavaScript:
+1. let, const, var
+2. How JavaScript is single-threaded
+3. Execution context
+4. Placement of Script tag: async vs defer
+5. How one thread handles many synchronous and asynchronous operations
+6. Types of for loops
+7. Web API: Task and Microtask Queue
+8. Temporal Dead Zone (TDZ) and hoisting
+9. Closure and lexical scope
+10. Currying
+11. Every ES6 feature
+12. Higher-Order Functions (HOF)
+13. Exception Handling
+14. this keyword
+15. call, bind, apply
+16. Prototypes, Polyfills and Classes
+17. Callbacks, Promises and Async/Await
+18. Objects and Arrays: Methods
+19. DOM
+20. Shallow vs Deep Copy
+
+Java:
+1. Type of language
+2. JDK, JVM, JRE
+3. Stack and heap
+4. OOP pillars
+5. Immutability
+6. Wrapper Classes, Autoboxing and Unboxing
+7. Upcast and Downcast
+8. Abstract classes and interfaces
+9. Method overloading and overriding
+10. Diamond Problem
+11. Enums
+12. Copy constructor
+13. Exception handling and hierarchy, propagation
+14. final, finally, and finalize
+15. throw vs throws
+16. equals vs ==
+17. static and static block
+18. Instance block
+19. Lambda expressions
+20. Comparator vs Comparable
+21. Collections
+22. Multithreading
+23. Stream API
+24. Map, Filter, Reduce
+
+C++:
+1. C vs C++
+2. Why C/C++ is between high and low level (mid-level)
+3. Pointers, References and Smart Pointers
+4. 1D and 2D array pointer initialization
+5. Stack and heap
+6. OOPS
+7. Virtual classes, methods, destructor
+8. Abstract classes/Interface/Pure Virtual Classes
+9. Method overloading and overriding, Operator Overloading
+10. Friend function and class
+11. Diamond problem fix
+12. Copy constructor
+13. Exception handling
+14. Generics, Templates and STL
+15. Lambda, Const and Mutable
+16. Comparator
+17. Struct, enums, and unions
+
+SQL:
+1. Type of language
+2. DDL, DML, DCL, TCL, DQL
+3. Drop vs delete vs truncate
+4. Alter DDL
+5. Sequence of SQL commands
+6. Keys and Constraints
+7. Wildcard operators (pattern matching)
+8. Joins
+9. Subquery, Nested Subquery, Correlated Subquery
+10. Group by, having, order by
+11. Nth Highest Salary, Limit
+12. Window Functions
+13. Views, Stored Procedure, Triggers
+14. ACID properties
